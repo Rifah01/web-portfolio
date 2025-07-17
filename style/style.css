@@ -1,0 +1,30 @@
+.change{
+    color:orangered;
+}
+nav{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+ nav ul li{
+    list-style: none;
+    margin-right: 51px;
+ }
+ ul li a{
+text-decoration: none;
+ }
+    
+nav ul{
+    display:flex;
+}
+
+.anchor1{
+color:black;
+font-size: 15px;
+font-weight:700;
+}
+.anchor2{
+background-color: orangered;
+}
